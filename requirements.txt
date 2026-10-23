@@ -1,0 +1,37 @@
+# Core dependencies for clinical diagnosis exploration tools
+openai>=1.0.0
+anthropic>=0.8.0
+
+# Data processing and analysis
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Web scraping and API interactions
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+
+# Machine learning and statistical analysis
+scikit-learn>=1.2.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+statsmodels>=0.13.0
+
+# Web interface
+gradio>=4.0.0
+
+# Environment and configuration
+python-dotenv>=0.19.0
+
+# Type hints and utilities
+typing-extensions>=4.0.0
+pathlib>=1.0.1
+
+# JSON schema validation
+jsonschema>=4.17.3
+
+# Development and testing (optional)
+pytest>=6.0
+black>=22.0
+isort>=5.0
+mypy>=0.900 
